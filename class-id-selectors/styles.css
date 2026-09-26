@@ -1,0 +1,16 @@
+.skibidi {
+    background-color: rgb(255, 192, 200);
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+#nowe {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}   
+#siema {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+    .wieksze {
+        font-size: 24px;
+    }
