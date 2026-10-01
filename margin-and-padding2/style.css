@@ -1,0 +1,48 @@
+body {
+  background: gray;
+  font-family: sans-serif;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+.card {
+  width: 400px;
+  background: white;
+  margin: 12px auto;
+  padding: 8px;
+}
+
+.title,
+.content,
+.button-container {
+  background: dodgerblue;
+  padding: 6px;
+  margin: 6px;
+  
+}
+.title {
+  background: dodgerblue;
+  padding: 8px;
+  margin-bottom: 8px;
+  font-size: 15px;
+  
+}
+.content {
+  background: dodgerblue;
+  padding: 16px 6px;
+  margin-bottom: 8px;
+}
+.button-container {
+  background: dodgerblue;
+  padding: 8px;
+  text-align: center;
+  
+}
+
+button {
+  background: white;
+  display: block;
+  margin: 0 auto;
+  padding: 8px 24px;
+  
+}
